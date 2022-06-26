@@ -5,12 +5,6 @@
 			"style": {
 				"navigationBarTitleText": "uni-app"
 			}
-		},
-		{
-			"path": "pages/test-01/test-01",
-			"style": {
-				"navigationBarTitleText": "text-01"
-			}
 		}
 	],
 	"globalStyle": {
@@ -18,23 +12,5 @@
 		"navigationBarTitleText": "uni-app",
 		"navigationBarBackgroundColor": "#F8F8F8",
 		"backgroundColor": "#F8F8F8"
-	},
-	"tabBar": {
-			"color": "black",
-			 "selectedColor": "#550000",
-			 "backgroundColor": "#aaaaff",
-			"list": [
-				{
-					"pagePath": "pages/index/index",
-					"text": "home"
-				},
-				{
-					"pagePath": "pages/test-01/test-01",
-					"text": "text"
-				}
-			]
-		}
+	}
 }
-
-
-
