@@ -1,0 +1,1 @@
+<view>test03<button data-event-opts="{{[['tap',[['open',['$event']]]]]}}" bindtap="__e">跳转到text02</button></view>

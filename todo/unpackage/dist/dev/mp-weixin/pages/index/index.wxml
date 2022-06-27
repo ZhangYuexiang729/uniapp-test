@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png" mode="scaleToFill"></image><view class="text-area"><text class="title">{{title}}</text></view><button type="menu" data-event-opts="{{[['tap',[['open',['$event']]]]]}}" bindtap="__e">点击跳转</button><navigator url="../test03/test03">组件跳转</navigator></view>
